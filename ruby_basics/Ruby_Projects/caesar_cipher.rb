@@ -20,7 +20,7 @@ def caesar_cipher(phrase, shift)
 end
 
 
-caesar_cipher("abc", 1)   # => "bcd"
-caesar_cipher("xyz", 3)   # => "abc"  
-caesar_cipher("Hello!", 5) # => "Mjqqt!"
-caesar_cipher("Zebra", 2)  # => "Bgd tc"? Wait, need to check...
+caesar_cipher("abc", 1)
+caesar_cipher("xyz", 3)
+caesar_cipher("Hello!", 5)
+caesar_cipher("Zebra", 2)
